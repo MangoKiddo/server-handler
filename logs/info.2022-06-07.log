@@ -1,0 +1,27 @@
+2022-06-07 09:56:00 [ main:309 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 1685 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-06-07 09:56:00 [ main:310 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 09:56:01 [ main:749 ] - [ INFO ] Tomcat initialized with port(s): 8080 (http)
+2022-06-07 09:56:01 [ main:753 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:56:01 [ main:754 ] - [ INFO ] Starting service [Tomcat]
+2022-06-07 09:56:01 [ main:754 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 09:56:01 [ main:811 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-06-07 09:56:01 [ main:811 ] - [ INFO ] Root WebApplicationContext: initialization completed in 473 ms
+2022-06-07 09:56:01 [ main:978 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-07 09:56:01 [ main:990 ] - [ INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-07 09:56:01 [ main:996 ] - [ INFO ] Started ServerHandlerApplication in 0.914 seconds (JVM running for 3.15)
+2022-06-07 09:56:01 [ main:997 ] - [ INFO ] netty server started ,port:8001
+2022-06-07 09:56:14 [ nioEventLoopGroup-3-1:13926 ] - [ INFO ] 请求URL:/?id=1&name=测试测试
+2022-06-07 09:56:14 [ nioEventLoopGroup-3-1:13926 ] - [ INFO ] GET请求参数:{name=测试测试, id=1} 
+2022-06-07 09:56:14 [ nioEventLoopGroup-3-2:13946 ] - [ INFO ] 请求URL:/favicon.ico
+2022-06-07 11:23:11 [ main:267 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 2703 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-06-07 11:23:11 [ main:268 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-06-07 11:23:11 [ main:665 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-06-07 11:23:11 [ main:669 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-06-07 11:23:11 [ main:669 ] - [ INFO ] Starting service [Tomcat]
+2022-06-07 11:23:11 [ main:669 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-07 11:23:11 [ main:705 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-06-07 11:23:11 [ main:705 ] - [ INFO ] Root WebApplicationContext: initialization completed in 418 ms
+2022-06-07 11:23:12 [ main:863 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-06-07 11:23:12 [ main:874 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-06-07 11:23:12 [ main:880 ] - [ INFO ] Started ServerHandlerApplication in 0.809 seconds (JVM running for 1.31)
+2022-06-07 11:23:12 [ main:881 ] - [ INFO ] netty server started ,port:8001

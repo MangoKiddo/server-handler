@@ -1,0 +1,498 @@
+2022-08-24 11:53:17 [ main:350 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 15158 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 11:53:17 [ main:352 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 11:53:17 [ main:739 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 11:53:17 [ main:742 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:53:17 [ main:742 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 11:53:17 [ main:743 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 11:53:17 [ main:779 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 11:53:17 [ main:779 ] - [ INFO ] Root WebApplicationContext: initialization completed in 397 ms
+2022-08-24 11:53:17 [ main:941 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:53:17 [ main:951 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-08-24 11:53:17 [ main:956 ] - [ INFO ] Started ServerHandlerApplication in 0.872 seconds (JVM running for 1.136)
+2022-08-24 11:53:17 [ main:957 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 11:54:38 [ main:324 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 15174 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 11:54:38 [ main:325 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 11:54:39 [ main:753 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 11:54:39 [ main:756 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:54:39 [ main:757 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 11:54:39 [ main:757 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 11:54:39 [ main:785 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 11:54:39 [ main:785 ] - [ INFO ] Root WebApplicationContext: initialization completed in 421 ms
+2022-08-24 11:54:39 [ main:920 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:54:39 [ main:929 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-08-24 11:54:39 [ main:935 ] - [ INFO ] Started ServerHandlerApplication in 0.852 seconds (JVM running for 1.124)
+2022-08-24 11:54:39 [ main:935 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 11:55:19 [ main:226 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 15177 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 11:55:19 [ main:227 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 11:55:19 [ main:541 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 11:55:19 [ main:544 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:55:19 [ main:544 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 11:55:19 [ main:545 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 11:55:19 [ main:571 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 11:55:19 [ main:571 ] - [ INFO ] Root WebApplicationContext: initialization completed in 326 ms
+2022-08-24 11:55:19 [ main:687 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 11:55:19 [ main:695 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-08-24 11:55:19 [ main:700 ] - [ INFO ] Started ServerHandlerApplication in 0.636 seconds (JVM running for 0.854)
+2022-08-24 11:55:19 [ main:700 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 13:41:24 [ main:260 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 15306 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 13:41:24 [ main:261 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 13:41:25 [ main:605 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 13:41:25 [ main:609 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 13:41:25 [ main:609 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 13:41:25 [ main:609 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 13:41:25 [ main:641 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 13:41:25 [ main:641 ] - [ INFO ] Root WebApplicationContext: initialization completed in 362 ms
+2022-08-24 13:41:25 [ main:778 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 13:41:25 [ main:787 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-08-24 13:41:25 [ main:792 ] - [ INFO ] Started ServerHandlerApplication in 0.718 seconds (JVM running for 1.367)
+2022-08-24 13:41:25 [ main:794 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 13:42:31 [ main:420 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 15314 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 13:42:31 [ main:423 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 13:42:31 [ main:812 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 13:42:31 [ main:815 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 13:42:31 [ main:816 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 13:42:31 [ main:816 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 13:42:31 [ main:845 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 13:42:31 [ main:845 ] - [ INFO ] Root WebApplicationContext: initialization completed in 382 ms
+2022-08-24 13:42:31 [ main:970 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 13:42:31 [ main:979 ] - [ INFO ] Tomcat started on port(s): 8002 (http) with context path ''
+2022-08-24 13:42:31 [ main:984 ] - [ INFO ] Started ServerHandlerApplication in 0.876 seconds (JVM running for 1.259)
+2022-08-24 13:42:31 [ main:985 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:04:34 [ main:263 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16632 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:04:34 [ main:264 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:04:35 [ main:617 ] - [ INFO ] Tomcat initialized with port(s): 8002 (http)
+2022-08-24 17:04:35 [ main:620 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8002"]
+2022-08-24 17:04:35 [ main:620 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:04:35 [ main:620 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:04:35 [ main:653 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:04:35 [ main:653 ] - [ INFO ] Root WebApplicationContext: initialization completed in 371 ms
+2022-08-24 17:04:35 [ main:819 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8002"]
+2022-08-24 17:04:35 [ main:825 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8002 is already in use
+2022-08-24 17:04:35 [ main:827 ] - [ INFO ] Pausing ProtocolHandler ["http-nio-8002"]
+2022-08-24 17:04:35 [ main:827 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:04:35 [ main:829 ] - [ INFO ] Stopping ProtocolHandler ["http-nio-8002"]
+2022-08-24 17:04:35 [ main:830 ] - [ INFO ] Destroying ProtocolHandler ["http-nio-8002"]
+2022-08-24 17:04:35 [ main:833 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:04:50 [ main:328 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16634 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:04:50 [ main:330 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:04:50 [ main:764 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:04:50 [ main:769 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:04:50 [ main:769 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:04:50 [ main:769 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:04:51 [ main:815 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:04:51 [ main:815 ] - [ INFO ] Root WebApplicationContext: initialization completed in 461 ms
+2022-08-24 17:04:51 [ main:1028 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:04:51 [ main:1048 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:04:51 [ main:1054 ] - [ INFO ] Started ServerHandlerApplication in 0.975 seconds (JVM running for 1.322)
+2022-08-24 17:04:51 [ main:1055 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:04:51 [ main:1099 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:05:00 [ main:269 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16637 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:05:00 [ main:270 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:05:00 [ main:567 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:05:00 [ main:570 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:05:00 [ main:570 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:05:00 [ main:570 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:05:00 [ main:597 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:05:00 [ main:597 ] - [ INFO ] Root WebApplicationContext: initialization completed in 311 ms
+2022-08-24 17:05:00 [ main:736 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:05:00 [ main:744 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:05:00 [ main:749 ] - [ INFO ] Started ServerHandlerApplication in 0.668 seconds (JVM running for 0.903)
+2022-08-24 17:05:00 [ main:750 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:05:00 [ main:795 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:05:45 [ main:482 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16909 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:05:45 [ main:485 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:05:45 [ main:897 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:05:45 [ main:901 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:05:45 [ main:901 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:05:45 [ main:901 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:05:45 [ main:936 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:05:45 [ main:936 ] - [ INFO ] Root WebApplicationContext: initialization completed in 414 ms
+2022-08-24 17:05:45 [ main:1085 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:05:45 [ main:1096 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:05:45 [ main:1102 ] - [ INFO ] Started ServerHandlerApplication in 0.977 seconds (JVM running for 1.376)
+2022-08-24 17:05:45 [ main:1104 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:11:16 [ main:306 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16938 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:11:16 [ main:307 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:11:16 [ main:697 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:11:16 [ main:701 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:11:16 [ main:701 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:11:16 [ main:701 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:11:16 [ main:734 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:11:16 [ main:734 ] - [ INFO ] Root WebApplicationContext: initialization completed in 406 ms
+2022-08-24 17:11:16 [ main:874 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:11:16 [ main:883 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:11:16 [ main:889 ] - [ INFO ] Started ServerHandlerApplication in 0.797 seconds (JVM running for 1.129)
+2022-08-24 17:11:16 [ main:890 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:11:54 [ main:301 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16946 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:11:54 [ main:303 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:11:54 [ main:689 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:11:54 [ main:692 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:11:54 [ main:693 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:11:54 [ main:693 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:11:54 [ main:725 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:11:54 [ main:725 ] - [ INFO ] Root WebApplicationContext: initialization completed in 395 ms
+2022-08-24 17:11:54 [ main:860 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:11:54 [ main:869 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:11:54 [ main:874 ] - [ INFO ] Started ServerHandlerApplication in 0.786 seconds (JVM running for 1.131)
+2022-08-24 17:11:54 [ main:875 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:13:26 [ main:293 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16954 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:13:26 [ main:294 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:13:27 [ main:644 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:13:27 [ main:650 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:13:27 [ main:651 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:13:27 [ main:651 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:13:27 [ main:697 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:13:27 [ main:697 ] - [ INFO ] Root WebApplicationContext: initialization completed in 383 ms
+2022-08-24 17:13:27 [ main:895 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:13:27 [ main:905 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:13:27 [ main:912 ] - [ INFO ] Started ServerHandlerApplication in 0.832 seconds (JVM running for 1.18)
+2022-08-24 17:13:27 [ main:913 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:14:27 [ main:302 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16958 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:14:27 [ main:303 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:14:27 [ main:735 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:14:27 [ main:739 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:14:27 [ main:740 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:14:27 [ main:740 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:14:27 [ main:777 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:14:27 [ main:777 ] - [ INFO ] Root WebApplicationContext: initialization completed in 451 ms
+2022-08-24 17:14:27 [ main:955 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:14:27 [ main:968 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:14:27 [ main:974 ] - [ INFO ] Started ServerHandlerApplication in 0.905 seconds (JVM running for 1.23)
+2022-08-24 17:14:27 [ main:975 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:16:18 [ main:287 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16974 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:16:18 [ main:288 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:16:18 [ main:633 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:16:18 [ main:637 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:16:18 [ main:637 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:16:18 [ main:638 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:16:18 [ main:673 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:16:18 [ main:673 ] - [ INFO ] Root WebApplicationContext: initialization completed in 366 ms
+2022-08-24 17:16:18 [ main:696 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'beanTsl': Unsatisfied dependency expressed through field 'lifecycleBean'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.moredian.serverhandler.handler.LifecycleBean' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-08-24 17:16:18 [ main:697 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:16:18 [ main:702 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:17:18 [ main:293 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16979 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:17:18 [ main:294 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:17:18 [ main:639 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:17:18 [ main:642 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:17:18 [ main:642 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:17:18 [ main:642 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:17:19 [ main:675 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:17:19 [ main:675 ] - [ INFO ] Root WebApplicationContext: initialization completed in 362 ms
+2022-08-24 17:17:19 [ main:819 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:17:19 [ main:829 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:17:19 [ main:834 ] - [ INFO ] Started ServerHandlerApplication in 0.761 seconds (JVM running for 1.088)
+2022-08-24 17:17:19 [ main:835 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:17:39 [ main:484 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16983 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:17:39 [ main:485 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:17:39 [ main:958 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:17:39 [ main:962 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:17:39 [ main:962 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:17:39 [ main:962 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:17:39 [ main:994 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:17:39 [ main:994 ] - [ INFO ] Root WebApplicationContext: initialization completed in 452 ms
+2022-08-24 17:17:39 [ main:1138 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:17:39 [ main:1147 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:17:39 [ main:1152 ] - [ INFO ] Started ServerHandlerApplication in 1.026 seconds (JVM running for 1.466)
+2022-08-24 17:17:39 [ main:1153 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:19:58 [ main:275 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 16998 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:19:58 [ main:276 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:19:59 [ main:739 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:19:59 [ main:744 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:19:59 [ main:744 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:19:59 [ main:744 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:19:59 [ main:786 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:19:59 [ main:786 ] - [ INFO ] Root WebApplicationContext: initialization completed in 491 ms
+2022-08-24 17:19:59 [ main:962 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:19:59 [ main:981 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:19:59 [ main:988 ] - [ INFO ] Started ServerHandlerApplication in 0.92 seconds (JVM running for 1.22)
+2022-08-24 17:19:59 [ main:989 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:23:37 [ main:282 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17007 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:23:37 [ main:283 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:23:37 [ main:670 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:23:37 [ main:674 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:23:37 [ main:674 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:23:37 [ main:674 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:23:37 [ main:703 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:23:37 [ main:703 ] - [ INFO ] Root WebApplicationContext: initialization completed in 402 ms
+2022-08-24 17:23:37 [ main:831 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:23:38 [ main:840 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:23:38 [ main:845 ] - [ INFO ] Started ServerHandlerApplication in 0.763 seconds (JVM running for 1.131)
+2022-08-24 17:23:38 [ main:846 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:24:46 [ main:273 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17019 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:24:46 [ main:274 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:24:47 [ main:671 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:24:47 [ main:674 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:24:47 [ main:675 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:24:47 [ main:675 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:24:47 [ main:705 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:24:47 [ main:705 ] - [ INFO ] Root WebApplicationContext: initialization completed in 411 ms
+2022-08-24 17:24:47 [ main:727 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'lifeCycleBean' defined in class path resource [spring.xml]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'java.lang.String' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2022-08-24 17:24:47 [ main:728 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:24:47 [ main:733 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:25:21 [ main:418 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17022 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:25:21 [ main:421 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:25:21 [ main:820 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:25:21 [ main:824 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:25:21 [ main:824 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:25:21 [ main:824 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:25:21 [ main:855 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:25:21 [ main:855 ] - [ INFO ] Root WebApplicationContext: initialization completed in 404 ms
+2022-08-24 17:25:22 [ main:992 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:25:22 [ main:1001 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:25:22 [ main:1007 ] - [ INFO ] Started ServerHandlerApplication in 0.911 seconds (JVM running for 1.272)
+2022-08-24 17:25:22 [ main:1008 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:25:48 [ main:249 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17025 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:25:48 [ main:250 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:25:49 [ main:622 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:25:49 [ main:626 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:25:49 [ main:626 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:25:49 [ main:626 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:25:49 [ main:655 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:25:49 [ main:655 ] - [ INFO ] Root WebApplicationContext: initialization completed in 386 ms
+2022-08-24 17:25:49 [ main:784 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:25:49 [ main:793 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:25:49 [ main:798 ] - [ INFO ] Started ServerHandlerApplication in 0.735 seconds (JVM running for 1.019)
+2022-08-24 17:25:49 [ main:799 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:30:40 [ main:267 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17053 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:30:40 [ main:271 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:30:40 [ main:618 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:30:40 [ main:621 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:30:40 [ main:621 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:30:40 [ main:622 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:30:40 [ main:653 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:30:40 [ main:654 ] - [ INFO ] Root WebApplicationContext: initialization completed in 365 ms
+2022-08-24 17:30:40 [ main:782 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:30:40 [ main:791 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:30:40 [ main:796 ] - [ INFO ] Started ServerHandlerApplication in 0.719 seconds (JVM running for 1.022)
+2022-08-24 17:30:40 [ main:797 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:35:35 [ main:266 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17078 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:35:35 [ main:267 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:35:35 [ main:645 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:35:35 [ main:650 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:35:35 [ main:650 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:35:35 [ main:650 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:35:35 [ main:685 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:35:35 [ main:685 ] - [ INFO ] Root WebApplicationContext: initialization completed in 399 ms
+2022-08-24 17:35:36 [ main:819 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:35:36 [ main:828 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:35:36 [ main:834 ] - [ INFO ] Started ServerHandlerApplication in 0.768 seconds (JVM running for 1.054)
+2022-08-24 17:35:36 [ main:834 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:35:53 [ main:240 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17084 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:35:53 [ main:242 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:35:54 [ main:571 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:35:54 [ main:574 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:35:54 [ main:574 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:35:54 [ main:575 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:35:54 [ main:605 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:35:54 [ main:605 ] - [ INFO ] Root WebApplicationContext: initialization completed in 346 ms
+2022-08-24 17:35:54 [ main:737 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:35:54 [ main:746 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:35:54 [ main:751 ] - [ INFO ] Started ServerHandlerApplication in 0.689 seconds (JVM running for 0.951)
+2022-08-24 17:35:54 [ main:751 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:36:08 [ main:269 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17087 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:36:08 [ main:270 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:36:09 [ main:609 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:36:09 [ main:613 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:36:09 [ main:613 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:36:09 [ main:613 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:36:09 [ main:643 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:36:09 [ main:643 ] - [ INFO ] Root WebApplicationContext: initialization completed in 354 ms
+2022-08-24 17:36:09 [ main:774 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:36:09 [ main:783 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:36:09 [ main:788 ] - [ INFO ] Started ServerHandlerApplication in 0.711 seconds (JVM running for 0.998)
+2022-08-24 17:36:09 [ main:789 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:36:24 [ main:291 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17090 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:36:24 [ main:292 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:36:24 [ main:677 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:36:24 [ main:681 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:36:24 [ main:681 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:36:24 [ main:681 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:36:24 [ main:710 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:36:24 [ main:711 ] - [ INFO ] Root WebApplicationContext: initialization completed in 399 ms
+2022-08-24 17:36:24 [ main:840 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:36:24 [ main:849 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:36:24 [ main:854 ] - [ INFO ] Started ServerHandlerApplication in 0.773 seconds (JVM running for 1.061)
+2022-08-24 17:36:24 [ main:855 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:41:20 [ main:299 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17105 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:41:20 [ main:301 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:41:20 [ main:656 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:41:20 [ main:659 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:41:20 [ main:659 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:41:20 [ main:660 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:41:20 [ main:689 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:41:20 [ main:689 ] - [ INFO ] Root WebApplicationContext: initialization completed in 371 ms
+2022-08-24 17:41:21 [ main:816 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:41:21 [ main:825 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:41:21 [ main:830 ] - [ INFO ] Started ServerHandlerApplication in 0.748 seconds (JVM running for 1.035)
+2022-08-24 17:41:21 [ main:831 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:42:48 [ main:308 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17121 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:42:48 [ main:310 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:42:48 [ main:721 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:42:48 [ main:725 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:42:48 [ main:725 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:42:48 [ main:725 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:42:48 [ main:755 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:42:48 [ main:755 ] - [ INFO ] Root WebApplicationContext: initialization completed in 420 ms
+2022-08-24 17:42:48 [ main:894 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:42:48 [ main:911 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:42:48 [ main:917 ] - [ INFO ] Started ServerHandlerApplication in 0.837 seconds (JVM running for 1.131)
+2022-08-24 17:42:48 [ main:918 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:44:36 [ main:269 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17128 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:44:36 [ main:271 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:44:36 [ main:616 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:44:36 [ main:619 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:44:36 [ main:620 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:44:36 [ main:620 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:44:36 [ main:651 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:44:36 [ main:651 ] - [ INFO ] Root WebApplicationContext: initialization completed in 360 ms
+2022-08-24 17:44:36 [ main:672 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'setLifeCycleBeanName' defined in class path resource [com/moredian/serverhandler/handler/LifecycleBean.class]: Invalid factory method 'setLifeCycleBeanName' on class [com.moredian.serverhandler.handler.LifecycleBean]: needs to have a non-void return type!
+2022-08-24 17:44:36 [ main:673 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:44:36 [ main:678 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:45:24 [ main:298 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17131 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:45:24 [ main:299 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:45:24 [ main:644 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:45:24 [ main:648 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:45:24 [ main:648 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:45:24 [ main:648 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:45:24 [ main:678 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:45:24 [ main:678 ] - [ INFO ] Root WebApplicationContext: initialization completed in 361 ms
+2022-08-24 17:45:24 [ main:699 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'setLifeCycleBeanName' defined in class path resource [com/moredian/serverhandler/handler/LifecycleBean.class]: Invalid factory method 'setLifeCycleBeanName' on class [com.moredian.serverhandler.handler.LifecycleBean]: needs to have a non-void return type!
+2022-08-24 17:45:24 [ main:700 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:45:24 [ main:705 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:46:13 [ main:271 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17136 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:46:13 [ main:272 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:46:13 [ main:628 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:46:13 [ main:631 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:46:13 [ main:632 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:46:13 [ main:632 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:46:14 [ main:662 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:46:14 [ main:662 ] - [ INFO ] Root WebApplicationContext: initialization completed in 372 ms
+2022-08-24 17:46:14 [ main:684 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'setLifeCycleBeanName' defined in class path resource [com/moredian/serverhandler/handler/LifecycleBean.class]: Invalid factory method 'setLifeCycleBeanName' on class [com.moredian.serverhandler.handler.LifecycleBean]: needs to have a non-void return type!
+2022-08-24 17:46:14 [ main:685 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:46:14 [ main:690 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:46:52 [ main:264 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17142 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:46:52 [ main:265 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:46:52 [ main:620 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:46:52 [ main:623 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:46:52 [ main:623 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:46:52 [ main:623 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:46:52 [ main:653 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:46:52 [ main:654 ] - [ INFO ] Root WebApplicationContext: initialization completed in 371 ms
+2022-08-24 17:46:53 [ main:675 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'setLifeCycleBeanName' defined in class path resource [com/moredian/serverhandler/handler/LifecycleBean.class]: Invalid factory method 'setLifeCycleBeanName' on class [com.moredian.serverhandler.handler.LifecycleBean]: needs to have a non-void return type!
+2022-08-24 17:46:53 [ main:676 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:46:53 [ main:681 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:47:54 [ main:279 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17146 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:47:54 [ main:280 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:47:54 [ main:630 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:47:54 [ main:634 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:47:54 [ main:634 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:47:54 [ main:635 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:47:54 [ main:668 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:47:54 [ main:669 ] - [ INFO ] Root WebApplicationContext: initialization completed in 370 ms
+2022-08-24 17:47:54 [ main:811 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:47:54 [ main:821 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:47:55 [ main:826 ] - [ INFO ] Started ServerHandlerApplication in 0.746 seconds (JVM running for 1.033)
+2022-08-24 17:47:55 [ main:827 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:50:56 [ main:265 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17153 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:50:56 [ main:266 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:50:56 [ main:606 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:50:56 [ main:609 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:50:56 [ main:610 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:50:56 [ main:610 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:50:56 [ main:639 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:50:56 [ main:640 ] - [ INFO ] Root WebApplicationContext: initialization completed in 355 ms
+2022-08-24 17:50:56 [ main:790 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:50:56 [ main:800 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:50:56 [ main:805 ] - [ INFO ] Started ServerHandlerApplication in 0.733 seconds (JVM running for 1.016)
+2022-08-24 17:50:56 [ main:806 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:53:56 [ main:256 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17175 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:53:56 [ main:257 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:53:56 [ main:668 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:53:56 [ main:672 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:53:56 [ main:673 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:53:56 [ main:673 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:53:56 [ main:710 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:53:56 [ main:710 ] - [ INFO ] Root WebApplicationContext: initialization completed in 434 ms
+2022-08-24 17:53:56 [ main:741 ] - [ WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'lifeCycleBean' defined in class path resource [spring.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type 'java.lang.String' to required type 'com.moredian.serverhandler.handler.BeanTsl' for property 'lifeCycleBeanName'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.moredian.serverhandler.handler.BeanTsl' for property 'lifeCycleBeanName': no matching editors or conversion strategy found
+2022-08-24 17:53:56 [ main:742 ] - [ INFO ] Stopping service [Tomcat]
+2022-08-24 17:53:56 [ main:748 ] - [ INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-08-24 17:56:44 [ main:280 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17185 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:56:44 [ main:281 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:56:44 [ main:659 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:56:44 [ main:663 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:56:44 [ main:663 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:56:44 [ main:663 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:56:44 [ main:698 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:56:44 [ main:698 ] - [ INFO ] Root WebApplicationContext: initialization completed in 393 ms
+2022-08-24 17:56:45 [ main:840 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:56:45 [ main:849 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:56:45 [ main:855 ] - [ INFO ] Started ServerHandlerApplication in 0.778 seconds (JVM running for 1.056)
+2022-08-24 17:56:45 [ main:856 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:57:40 [ main:254 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17191 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:57:40 [ main:254 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:57:40 [ main:596 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:57:40 [ main:600 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:57:40 [ main:600 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:57:40 [ main:600 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:57:40 [ main:630 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:57:40 [ main:630 ] - [ INFO ] Root WebApplicationContext: initialization completed in 358 ms
+2022-08-24 17:57:40 [ main:758 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:57:40 [ main:766 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:57:40 [ main:772 ] - [ INFO ] Started ServerHandlerApplication in 0.702 seconds (JVM running for 1.007)
+2022-08-24 17:57:40 [ main:773 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:58:09 [ main:279 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17194 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:58:09 [ main:280 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:58:10 [ main:636 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:58:10 [ main:639 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:58:10 [ main:639 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:58:10 [ main:639 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:58:10 [ main:672 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:58:10 [ main:672 ] - [ INFO ] Root WebApplicationContext: initialization completed in 369 ms
+2022-08-24 17:58:10 [ main:819 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:58:10 [ main:829 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:58:10 [ main:834 ] - [ INFO ] Started ServerHandlerApplication in 0.761 seconds (JVM running for 1.019)
+2022-08-24 17:58:10 [ main:835 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 17:58:37 [ main:282 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17197 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 17:58:37 [ main:284 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 17:58:37 [ main:650 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 17:58:37 [ main:653 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:58:37 [ main:653 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 17:58:37 [ main:654 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 17:58:37 [ main:684 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 17:58:37 [ main:684 ] - [ INFO ] Root WebApplicationContext: initialization completed in 378 ms
+2022-08-24 17:58:37 [ main:819 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 17:58:37 [ main:828 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 17:58:37 [ main:833 ] - [ INFO ] Started ServerHandlerApplication in 0.755 seconds (JVM running for 1.027)
+2022-08-24 17:58:37 [ main:834 ] - [ INFO ] netty server started ,port:8001
+2022-08-24 18:00:39 [ main:269 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 17210 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-08-24 18:00:39 [ main:271 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-08-24 18:00:39 [ main:611 ] - [ INFO ] Tomcat initialized with port(s): 8003 (http)
+2022-08-24 18:00:39 [ main:616 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8003"]
+2022-08-24 18:00:39 [ main:617 ] - [ INFO ] Starting service [Tomcat]
+2022-08-24 18:00:39 [ main:617 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-08-24 18:00:39 [ main:666 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-08-24 18:00:39 [ main:666 ] - [ INFO ] Root WebApplicationContext: initialization completed in 377 ms
+2022-08-24 18:00:39 [ main:845 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8003"]
+2022-08-24 18:00:39 [ main:856 ] - [ INFO ] Tomcat started on port(s): 8003 (http) with context path ''
+2022-08-24 18:00:39 [ main:864 ] - [ INFO ] Started ServerHandlerApplication in 0.797 seconds (JVM running for 1.067)
+2022-08-24 18:00:39 [ main:865 ] - [ INFO ] netty server started ,port:8001

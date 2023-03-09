@@ -1,0 +1,16 @@
+2022-06-06 18:21:21 [ main:235 ] - [ INFO ] Starting ServerHandlerApplication using Java 1.8.0_282 on Mango.local with PID 7247 (/Users/wukai/IdeaProjects/server-handler/target/classes started by wukai in /Users/wukai/IdeaProjects/server-handler)
+2022-06-06 18:21:21 [ main:236 ] - [ INFO ] No active profile set, falling back to 1 default profile: "default"
+2022-06-06 18:21:21 [ main:571 ] - [ INFO ] Tomcat initialized with port(s): 8080 (http)
+2022-06-06 18:21:21 [ main:574 ] - [ INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-06 18:21:21 [ main:574 ] - [ INFO ] Starting service [Tomcat]
+2022-06-06 18:21:21 [ main:574 ] - [ INFO ] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-06 18:21:21 [ main:610 ] - [ INFO ] Initializing Spring embedded WebApplicationContext
+2022-06-06 18:21:21 [ main:610 ] - [ INFO ] Root WebApplicationContext: initialization completed in 358 ms
+2022-06-06 18:21:21 [ main:734 ] - [ INFO ] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-06 18:21:21 [ main:743 ] - [ INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-06 18:21:21 [ main:748 ] - [ INFO ] Started ServerHandlerApplication in 0.685 seconds (JVM running for 1.054)
+2022-06-06 18:21:21 [ main:749 ] - [ INFO ] netty server started ,port:8001
+2022-06-06 18:21:32 [ nioEventLoopGroup-3-2:11504 ] - [ INFO ] 请求URL:/?orgId=123
+2022-06-06 18:21:32 [ nioEventLoopGroup-3-2:11505 ] - [ INFO ] GET请求参数:{orgId=123} 
+2022-06-06 18:21:45 [ nioEventLoopGroup-3-4:25069 ] - [ INFO ] 请求URL:/?orgId=123
+2022-06-06 18:21:45 [ nioEventLoopGroup-3-4:25140 ] - [ INFO ] POST请求参数:{name=测试, id=1, orgId=[123]}
