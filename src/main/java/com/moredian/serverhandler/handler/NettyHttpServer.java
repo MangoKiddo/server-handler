@@ -1,15 +1,13 @@
 package com.moredian.serverhandler.handler;
 import io.netty.bootstrap.ServerBootstrap;
-import io.netty.channel.Channel;
-import io.netty.channel.ChannelFuture;
-import io.netty.channel.ChannelInitializer;
-import io.netty.channel.EventLoopGroup;
+import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.handler.codec.http.HttpObjectAggregator;
 import io.netty.handler.codec.http.HttpRequestDecoder;
 import io.netty.handler.codec.http.HttpResponseEncoder;
+import io.netty.handler.codec.http.HttpServerCodec;
 import io.netty.handler.stream.ChunkedWriteHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -54,7 +52,7 @@ public class NettyHttpServer {
                             // 请求解码器
                             socketChannel.pipeline().addLast("http-decoder", new HttpRequestDecoder());
                             // 将HTTP消息的多个部分合成一条完整的HTTP消息
-                            socketChannel.pipeline().addLast("http-aggregator", new HttpObjectAggregator(65535));
+                            socketChannel.pipeline().addLast("http-aggregator", new HttpObjectAggregator( 10 * 1024 * 1024));
                             // 响应转码器
                             socketChannel.pipeline().addLast("http-encoder", new HttpResponseEncoder());
                             // 解决大码流的问题，ChunkedWriteHandler：向客户端发送HTML5文件

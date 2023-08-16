@@ -75,11 +75,11 @@ public class NettyHttpServerHandler extends SimpleChannelInboundHandler<FullHttp
                 postParamsFromChannel.put(entry.getKey(), entry.getValue());
             }
             logger.info("POST请求参数:{}", postParamsFromChannel);
-            String msg = "<html>head><title>DEMO</title></head><body>你请求url为：" + url+"，参数为："+postParamsFromChannel+"</body></html>";
+//            String msg = "<html>head><title>DEMO</title></head><body>你请求url为：" + url+"，参数为："+postParamsFromChannel+"</body></html>";
             response = new DefaultFullHttpResponse(
                     HttpVersion.HTTP_1_1,
                     HttpResponseStatus.OK,
-                    Unpooled.copiedBuffer(msg, CharsetUtil.UTF_8));
+                    Unpooled.copiedBuffer("请求成功", CharsetUtil.UTF_8));
             // 设置头信息
             response.headers().set(HttpHeaderNames.CONTENT_TYPE, "text/html; charset=UTF-8");
         }else{
@@ -127,7 +127,13 @@ public class NettyHttpServerHandler extends SimpleChannelInboundHandler<FullHttp
 
         if (fullHttpRequest.method() == HttpMethod.POST) {
             // 处理POST请求
-            String strContentType = fullHttpRequest.headers().get("Content-Type").trim();
+            String strContentType = null;
+            try {
+                strContentType = fullHttpRequest.headers().get("Content-Type").trim();
+            } catch (Exception e) {
+                return null;
+            }
+
             if (strContentType.contains("x-www-form-urlencoded")) {
                 params  = getFormParams(fullHttpRequest);
             } else if (strContentType.contains("application/json")) {
